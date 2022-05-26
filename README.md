@@ -2,14 +2,6 @@
 
 #### 
 #### Desenvolvedora Front-end / Web dedicada, proativa e sempre focada em aprender mais! 
-Possuo conhecimento nas seguintes tecnologias: 🏆
-- HTML
-- CSS
-- JavaScript
-- Consumo de API's
-- Versionamento Git
-- Figma
-
 
 <div>
   <a href="https://www.linkedin.com/in/elipontes/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
