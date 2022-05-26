@@ -4,7 +4,7 @@
 
 - Atualmente focada em criar projetos, com o objetivo de melhorar minhas habilidades em CSS, Javascript e React! 📚
 
-- Possuo interesse em aprender no futuro: Design Ux/Ui e Figma. 🌱
+- Também possuo interesses em aprender: Design Ux/Ui e Figma. 🌱
 
 - Pronomes: Ela/dela 👧
 
