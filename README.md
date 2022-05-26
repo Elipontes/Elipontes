@@ -1,7 +1,14 @@
 <h1 align="center">Bem vindo(a) ao meu perfil! Sou a Eli! 🤙</h1>
 
-#### 
 #### Desenvolvedora Front-end / Web dedicada, proativa e sempre focada em aprender mais! 
+
+- Atualmente focada em criar projetos, com o objetivo de melhorar minhas habilidades em CSS, Javascript e React! 📚
+
+- Possuo interesse em aprender no futuro: Design Ux/Ui e Figma. 🌱
+
+- Pronomes: Ela/dela 👧
+
+
 
 <div>
   <a href="https://www.linkedin.com/in/elipontes/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
